@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "353ec9c3543bfc00985b5ef730c49669"
+build_time: [1562683591, 699509000]
+inputs:
+  "/Users/proximate/Desktop/Proyectos/TOOLS/SearchTextField/SearchTextField/Classes/SearchTextField.swift": [1562682985, 890164750]

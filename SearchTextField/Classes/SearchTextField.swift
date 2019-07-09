@@ -572,6 +572,7 @@ extension SearchTextField: UITableViewDelegate, UITableViewDataSource {
         }
         
         cell!.backgroundColor = UIColor.clear
+        cell!.textLabel?.numberOfLines = 2
         cell!.layoutMargins = UIEdgeInsets.zero
         cell!.preservesSuperviewLayoutMargins = false
         cell!.textLabel?.font = theme.font
